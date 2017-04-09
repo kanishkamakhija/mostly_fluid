@@ -1,0 +1,29 @@
+.container
+{   height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box
+{
+    width: 100%;
+}
+.green
+{
+   background-color:green;
+}
+.red
+{
+    background-color: red;
+}
+.blue
+{
+    background-color: blue;
+}
+.orange
+{
+    background-color: orange;
+}
+.grey
+{
+    background-color: gray;
+}
